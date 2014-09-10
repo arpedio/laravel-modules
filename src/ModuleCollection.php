@@ -36,6 +36,7 @@ class ModuleCollection extends Collection {
 	 */
 	public function registerModules()
 	{
+            /*
 		// First we need to sort the modules
 		$this->sort(function($a, $b) {
 			if ($a->order == $b->order) return 0;
@@ -47,6 +48,8 @@ class ModuleCollection extends Collection {
 		{
 			$module->register();
 		}
+             * 
+             */
 	}
 
 }
