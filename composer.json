@@ -1,5 +1,5 @@
 {
-    "name": "arpedio/laravel-modules",
+    "name": "creolab/laravel-modules",
     "keywords": ["modules", "laravel"],
     "description": "Application specific modules in Laravel 4",
     "homepage": "http://creolab.hr",
@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Arpedio\\LaravelModules\\": "src/"
+            "Creolab\\LaravelModules\\": "src/"
         }
     },
     "minimum-stability": "dev"
